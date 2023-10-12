@@ -1,0 +1,17 @@
+{
+  "require": {
+    "ext-json": "*",
+    "ext-curl": "*",
+    "psr/http-message": "1.0.1",
+    "ext-mbstring": "*",
+    "ext-dom": "*",
+    "simple-html-dom/simple-html-dom": "*",
+    "ext-libxml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+
+
+    }
+  }
+}
